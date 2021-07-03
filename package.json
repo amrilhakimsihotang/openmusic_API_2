@@ -1,0 +1,34 @@
+{
+  "name": "openmusic_api_2",
+  "version": "2.0.0",
+  "description": "OpenMusic Versi 2",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon ./src/server.js",
+    "lint": "eslint ./src",
+    "migrate": "node-pg-migrate"
+  },
+  "keywords": [
+    "openmusic"
+  ],
+  "author": "Amril Hakim Sihotang,S.Kom",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.26.1",
+    "@typescript-eslint/parser": "^4.26.1",
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.1.4",
+    "@hapi/jwt": "^2.0.1",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "joi": "^17.4.0",
+    "nanoid": "^3.1.23",
+    "node-pg-migrate": "^5.9.0",
+    "pg": "^8.6.0"
+  }
+}
