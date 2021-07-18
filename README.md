@@ -30,3 +30,6 @@ Tools:<br>
 7. Melihat daftar lagu Playlist
 8. Add/Delete Collaborations
 
+<br>
+Uji di postman dengan OpenMusic API V2 Test. Tidak ada kendala dan mendapat nilai bintang 4.
+<Br>perbaikan di eslintrc untuk konfigurasi rule
