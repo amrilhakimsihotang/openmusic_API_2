@@ -29,8 +29,10 @@ Tools:<br>
 6. Tampilkan Playlist detail/seluruh Playlist
 7. Melihat daftar lagu Playlist
 8. Add/Delete Collaborations
+![nilai](https://user-images.githubusercontent.com/68908992/145614325-a64a59f0-3189-43e9-ab37-29ce65f16ba2.png)
+
 
 <br>
 Uji di postman dengan OpenMusic API V2 Test. Tidak ada kendala.
 <Br>perbaikan di eslintrc untuk konfigurasi rule<br>
-![nilai](https://user-images.githubusercontent.com/68908992/145614325-a64a59f0-3189-43e9-ab37-29ce65f16ba2.png)
+
