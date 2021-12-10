@@ -31,5 +31,6 @@ Tools:<br>
 8. Add/Delete Collaborations
 
 <br>
-Uji di postman dengan OpenMusic API V2 Test. Tidak ada kendala dan mendapat nilai bintang 4.
-<Br>perbaikan di eslintrc untuk konfigurasi rule
+Uji di postman dengan OpenMusic API V2 Test. Tidak ada kendala.
+<Br>perbaikan di eslintrc untuk konfigurasi rule<br>
+![nilai](https://user-images.githubusercontent.com/68908992/145613915-0fcfba93-14ea-4a0e-897a-b7bd4cf19b56.png)
